@@ -1,0 +1,4 @@
+# Hallazgos de gitleaks revisados (2026-10-14): historicos/upstream, no son credenciales vigentes.
+# Odysseia: la clave de config.yml de 2026-06 NO coincide con la actual de la tienda (verificado); HEAD usa marcadores.
+3c797a879e6e31d452df9982f7348d3ceacf8c99:src/main/java/com/expl0itz/worldwidechat/localization/YAMLTranslator.java:aws-access-token:30
+cc0b5c71dd4f01f6a796baa88aa43168ffd1ba75:src/main/java/com/expl0itz/worldwidechat/localization/YAMLTranslator.java:aws-access-token:30
