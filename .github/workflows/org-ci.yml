@@ -22,7 +22,7 @@ jobs:
   verificar:
     uses: SlimefunNewHorizons/.github/.github/workflows/verificar.yml@main
     with:
-      maven-args: '-Dexec.skip=true'  # el build traduce los idiomas con AWS Translate (necesita credenciales que el CI no tiene)
+      maven-args: '-Dyamltranslator.skip=true'  # el build traduce los idiomas con AWS Translate (necesita credenciales que el CI no tiene)
   seguridad:
     permissions:
       contents: read
