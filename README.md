@@ -1,3 +1,9 @@
+<!-- credits:start -->
+> **Credits & license.** Port and maintenance by [JackStar6677-1](https://github.com/JackStar6677-1) and [DrakesCraft Labs](https://github.com/SlimefunNewHorizons). Original authors: [dominicfeliton](https://github.com/dominicfeliton) (upstream [dominicfeliton/WorldwideChat](https://github.com/dominicfeliton/WorldwideChat)), [dominicfeliton](https://github.com/dominicfeliton), [renovate-bot](https://github.com/renovate-bot), [Elsie19](https://github.com/Elsie19). Upstream license: **GNU General Public License v3.0** (see [LICENSE](LICENSE)). Details: [docs/UPSTREAM_ATTRIBUTION.md](docs/UPSTREAM_ATTRIBUTION.md) · Policy: [Rights & Attribution](https://github.com/SlimefunNewHorizons/.github/blob/main/RIGHTS_AND_ATTRIBUTION.md). Independent community project, not affiliated with or endorsed by the original authors or the official Slimefun team.
+>
+> **Créditos y licencia.** Port y mantenimiento por [JackStar6677-1](https://github.com/JackStar6677-1) y [DrakesCraft Labs](https://github.com/SlimefunNewHorizons). Autores originales: [dominicfeliton](https://github.com/dominicfeliton) (upstream [dominicfeliton/WorldwideChat](https://github.com/dominicfeliton/WorldwideChat)), [dominicfeliton](https://github.com/dominicfeliton), [renovate-bot](https://github.com/renovate-bot), [Elsie19](https://github.com/Elsie19). Licencia original: **GNU General Public License v3.0**. Detalle en [docs/UPSTREAM_ATTRIBUTION.md](docs/UPSTREAM_ATTRIBUTION.md).
+<!-- credits:end -->
+
 # WorldwideChat
 
 ![](https://github.com/dominicfeliton/WorldwideChat/blob/main/resources/wwc-clean.png)
