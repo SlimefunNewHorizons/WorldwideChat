@@ -57,6 +57,10 @@
           <skipTests>false</skipTests>
         </configuration>
       </plugin>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.15.0</version>
+      </plugin>
     </plugins>
   </build>
 
